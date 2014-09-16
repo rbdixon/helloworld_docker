@@ -1,0 +1,6 @@
+#!/bin/bash
+cd /src 
+. /home/ubuntu/nvm/nvm.sh
+nvm use v0.10.22
+npm install
+npm install -g forever

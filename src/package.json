@@ -1,0 +1,23 @@
+{
+  "name": "helloworld_docker",
+  "version": "0.0.1",
+  "description": "This is a Hello World application.",
+  "main": "hello.js",
+  "dependencies": {
+    "express": "~4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbdixon/helloworld_docker.git"
+  },
+  "author": "Brad Dixon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbdixon/helloworld_docker/issues"
+  },
+  "homepage": "https://github.com/rbdixon/helloworld_docker"
+}
